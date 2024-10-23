@@ -22,3 +22,6 @@ Whether you are looking to explore regression, classification, natural language 
      - CNNs
        (https://github.com/Manikandan-Ramesh/Practise_AI-ML_Problems/blob/main/cnns_code.ipynb)
 
+3.    [NLP]
+      - Text analytics basics practise on tokenization, pos tagging, stopwords removal
+
